@@ -1,0 +1,12 @@
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\bin\Debug\Лаб раб 2 по ворониной.exe.config
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\bin\Debug\Лаб раб 2 по ворониной.exe
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\bin\Debug\Лаб раб 2 по ворониной.pdb
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб раб 2 по ворониной.csprojResolveAssemblyReference.cache
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб_раб_2_по_ворониной.Form1.resources
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб_раб_2_по_ворониной.Properties.Resources.resources
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб раб 2 по ворониной.csproj.GenerateResource.Cache
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб раб 2 по ворониной.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб раб 2 по ворониной.exe
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб раб 2 по ворониной.pdb
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб_раб_2_по_ворониной.Form2.resources
+C:\Users\Константин\source\repos\Лаб раб 2 по ворониной\Лаб раб 2 по ворониной\obj\Debug\Лаб_раб_2_по_ворониной.Form3.resources
