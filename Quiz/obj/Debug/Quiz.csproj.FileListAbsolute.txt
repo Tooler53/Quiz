@@ -1,0 +1,12 @@
+c:\users\константин\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe.config
+c:\users\константин\source\repos\Quiz\Quiz\bin\Debug\Quiz.exe
+c:\users\константин\source\repos\Quiz\Quiz\bin\Debug\Quiz.pdb
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.exe
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.pdb
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.Form2.resources
+c:\users\константин\source\repos\Quiz\Quiz\obj\Debug\Quiz.Form3.resources
